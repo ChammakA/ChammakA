@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 <br>
-💠 I am in my 3rd year of Computer Science at Ontario Tech University <br>
-💠 I am born in Canada <img
+💠 Currently in my 3rd year of Computer Science at Ontario Tech University. <br> <br>
+💠 Born in Canada 🇨🇦 but my background is Bangladeshi 🇧🇩. <br> <br>
+💠 I enjoy taking pictures but have been trying to find ways to improve that skill. 📷 <br> <br>
+💠 What else... I also like games in general so if you want to play video 🎮, board 🎲, card 🃏, whatever, let me know. <br> <br>
