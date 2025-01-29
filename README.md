@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>💠 What else... I also like games in general so if you want to play video 🎮, board 🎲, card 🃏, whatever, let me know.</p>
 
 ## What Am I Looking For
-💠 Currently looking for a Co-op position in the summer of 2024.
+💠 Currently looking for a Co-op position.
 
 ## Languages I Have Experience With
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
