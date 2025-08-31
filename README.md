@@ -56,7 +56,7 @@
 
 ## How To Contact Me
 <a href="https://www.linkedin.com/in/sammak-ahmed-815a321a1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:sammak.ahmed@ontariotechu.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:sammak231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 That's all for now folks...
 
