@@ -1,27 +1,18 @@
 <!--
 **ChammakA/ChammakA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Projects from University as well as side projects like making my own website and helping with EZCampus
-- 🌱 I’m currently learning ... more about React and backend work using Django
-- 💬 Ask me about ... anything! I hope to be able to offer some assistance.
-- 📫 How to reach me: ... LinkedIn, Email, Number
-- ⚡ Fun fact: ... I like to take pictures. It helps me relive my memories.
--->
 [<img src="https://github.com/ChammakA/ChammakA/blob/main/Profile/Header.png" alt="MasterHead" width="1000" height="400">](https://github.com/ChammakA)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=300&size=23&pause=1000&color=57C770FD&center=true&width=600&lines=Hello%2C+my+name+is+Sammak.+;Welcome+to+my+profile.+Enjoy+your+stay.)](https://git.io/typing-svg)
 
 ## Introduction
 <br>
-<p>💠 Currently in my 3rd year of Computer Science at Ontario Tech University.</p>
+<p>💠 Currently in my final year of Computer Science at Ontario Tech University.</p>
 <p>💠 Born in Canada <img src="https://github.com/ChammakA/ChammakA/blob/main/Profile/CA_FLAG.png" width="20px" height="11px"/> but my background is Bangladeshi <img src="https://github.com/ChammakA/ChammakA/blob/main/Profile/BangFlag.png" width="20px" height="11px">.</p>
 <p>💠 I am a Muslim and am working to improve myself in that aspect!</p>
 <p>💠 What else... I also like games in general so if you want to play video 🎮, board 🎲, card 🃏, whatever, let me know.</p>
 
 ## What Am I Looking For
-💠 Currently looking for a Co-op position.
+💠 Currently looking for a Full-Time position.
 
 ## Languages I Have Experience With
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
